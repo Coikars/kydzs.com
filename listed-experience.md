@@ -2,7 +2,7 @@
 
 This list is only partial. Some positions listed are due to third-party outsourcing to these communities in times of need. This means that I was only on their staff for a minimal, specific time due to special events, but that experience in them is still applicable to denote.
 
-All of my experience is verifiable. In the event that you wish to know contact people of the communities, please [send me a message](hello@kydzs.com).
+All of my experience is verifiable. In the event that you wish to know contact people of the communities, please [send me a message](coikars@outlook.com).
 
 FORMAT
 - Person/Group + link to them, where I help them (and whether they are official ✅, partnered ♾️, or noteworthy ⭐), what position I am helping in, what is their approximate audience size, & the date I started/stopped.
@@ -10,17 +10,13 @@ Lists are organized from newest to oldest per category.
 
 # **PRESENTLY HELPING:**
 
-• [ufollie](https://twitch.tv/ufollie/@blank) | On Twitch | Moderator | ≈ 150 Members | `Since 12/28/22`
-
-• [Splatlands](https://splatlands.com/@blank) | All Socials | Owner | ≈ 315 Members | `Since 7/31/22`
+• [...myself I suppose :3](https://coikars.com) | On my time | for me | ≈ 1 Member | `Since 1/25`
 
 **---**
 
 **AS NEEDED/ON CALL**
 
-• [Mike Bliss](https://www.mikebliss.net/@blank) | On Twitch, Discord, YouTube, ⭐| Community Helper, Live Stream Moderator | ≈ 53.7K Members | ≈ `Since 3/10/20`
-
-• [HyperBeam](https://hyperbeam.com/@blank) | On Discord, Hyperbeam, ⭐ | Community Advisor/Admin | `Since 11/11/20`
+• [ufollie](https://twitch.tv/ufollie/@blank) | On Twitch | Moderator | ≈ 150 Members | `Since 12/28/22`
 
 **---**
 
@@ -47,6 +43,8 @@ Lists are organized from newest to oldest per category.
 **---**
 
 • [r/Nintendo](https://discord.gg/nintendo/@blank) | On Discord | Moderator | ≈ 45.8K Members | `12/4/22 - 11/25/23`
+
+• [Splatlands](https://splatlands.com/@blank) | All Socials | Owner | ≈ 315 Members | `7/31/22 - 1/26/25`
 
 • [Dispatch](https://ivn.to/dispatch/@blank) | On Discord | Owner | ≈ 300 Members | `4/8/22 - 3/1/23`
 
@@ -81,6 +79,10 @@ Lists are organized from newest to oldest per category.
 **---**
   
 • [PlayStation](https://discord.gg/ps/@blank) | On Discord, ⭐| Moderator | ≈ 100K Members | `5/3/21 - 10/28/21`
+
+• [HyperBeam](https://hyperbeam.com/@blank) | On Discord, Hyperbeam, ⭐ | Community Advisor/Admin | `11/11/20 - 1/26/25`
+
+• [Mike Bliss](https://www.mikebliss.net/@blank) | On Twitch, Discord, YouTube, ⭐| Community Helper, Live Stream Moderator | ≈ 53.7K Members | ≈ `3/10/20 - 11/24`
 
 • [Chloè Mendoza](https://www.younow.com/thechloenmendoza/@blank) | On Twitch, YouNow, Discord | Admin/Moderator | ≈ 14.4K Members | ≈ `7/8/19 - 7/31/22`
 
